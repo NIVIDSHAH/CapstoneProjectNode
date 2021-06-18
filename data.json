@@ -1,0 +1,44 @@
+{
+  "projects": [
+     
+      {
+        "id": "0",
+        "project_name":"Random Quote generation",
+        "technologies": ["JavaScript","CSS","HTML"],
+        "live_demo": "https://nividshah.github.io/FirstProject/",
+        "description": "| In this project I have used javascript event handler to generate random quote from an array.",
+        "github_link": "https://github.com/NIVIDSHAH/FirstProject.git",
+        "image_urls": [
+          "/static/img/Project1_Img1.png",
+          "/static/img/Project1_Img2.png",
+          "/static/img/Project1_Img3.png"
+        ]
+      },
+      {
+        "id": "1",
+        "project_name":"Pagination",
+        "technologies": ["JavaScript","CSS","HTML"],
+        "live_demo": "https://nividshah.github.io/SecondProject/",
+        "description": "| Limiting the entries per page just by changing one variable.",
+        "github_link": "https://github.com/NIVIDSHAH/SecondProject.git",
+        "image_urls": [
+          "/static/img/Project2_Img1.png",
+          "/static/img/Project2_Img1.png",
+          "/static/img/Project2_Img3.png"
+        ]
+      },
+      {
+        "id": "2",
+        "project_name":"Grocery Vending Machine",
+        "technologies": ["Embedded C","C++","Assembly Language", "Atmel Micro-Controller"],
+        "live_demo": "https://www.irjet.net/archives/V7/i4/IRJET-V7I4666.pdf",
+        "description": "| Developed Grocery vending machine that calculate price as per the quantity taken by customer for both liquid and solid .",
+        "github_link": "https://www.irjet.net/archives/V7/i4/IRJET-V7I4666.pdf",
+        "image_urls": [
+          "/static/img/Project3_Img1.png",
+          "/static/img/Project3_Img2.png",
+          "/static/img/Project3_Img3.png"
+        ]
+      }
+]
+}
